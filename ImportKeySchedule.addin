@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ImportKeySchedule</Name>
+    <Assembly>C:\Program Files\BBI\Add-in ImportKeySchedule\ImportKeySchedule.dll</Assembly>
+    <AddInId>93768c10-f819-40b7-bd80-030ef355862f</AddInId>
+    <FullClassName>BBI.JD.CrtlApplication</FullClassName>
+    <VendorId>JDS</VendorId>
+    <VendorDescription>Juan Daniel SANTANA</VendorDescription>
+  </AddIn>
+</RevitAddIns>
